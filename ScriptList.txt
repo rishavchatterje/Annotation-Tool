@@ -1,0 +1,16 @@
+English
+Hindi
+Bengali
+Oriya
+Gujrathi
+Punjabi
+Kannada
+Tamil
+Telugu
+Arabic
+Malayalam
+Chinese
+Thai
+Japanese
+Korean
+
